@@ -1,0 +1,56 @@
+body {
+  background-image: url(https://foolishdeveloper.com/wp-content/uploads/2024/01/image-113-1024x649.png);
+
+h1 {
+  color: rgb(0, 177, 247);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-style: italic;
+  color: rgb(255, 255, 255);
+}
+
+div {
+  margin: 60px;
+  border: 40px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: none;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(32, 148, 226);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+button {
+  background-color: #0489aa; /* Green */
+  border: none;
+  color: rgb(15, 15, 15);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 59px;
+}
+
+.first {
+color: rgb(255, 255, 255);
+
+
+}
